@@ -1,4 +1,4 @@
-# Display a random "Releas the kraken!" image for deploys and release-days
+# Display a random "Release the kraken!" image for deploys and release-days
 #
 
 images = [
